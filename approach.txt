@@ -1,4 +1,16 @@
-Test automation can be used to undertake large-scale system testing with repeatable results. An effective approach involves identifying the repetitious tasks that can be automated and designing test cases that cover all of the necessary test scenarios. Selenium and Appium can be used to automate web and mobile applications respectively, and these tools can also be used to simulate real-world user actions such as swiping and scrolling. Continuous integration tests can also be automated using frameworks such as Jenkins, which can be used to deploy and test code on different devices and environments. This ensures that changes to code do not introduce unexpected issues, and can be monitored and reported on easily.Test automation is improving every year as the requirements for product quality increase. New technologies are emerging to automate, speed up, and improve the testing process for various products.
-One of the most notable trends is JavaScript-based automated testing tools. As JS has become one of the most popular programming languages over the past few years, many frameworks have emerged to help engineers test JavaScript applications.
+The right selection of automation tool, testing process, and team, are important players for automation to be successful. Manual and automation methods
+go hand-in-hand for successful testing. Test automation can be used to undertake large-scale system testing with repeatable results. An effective 
+approach involves identifying the repetitious tasks that can be automated and designing test cases that cover all of the necessary test scenarios.
+Selenium and Appium can be used to automate web and mobile applications respectively, and these tools can also be used to simulate real-world user actions
+such as swiping and scrolling. Continuous integration tests can also be automated using frameworks such as Jenkins, which can be used to deploy and test
+code on different devices and environments. This ensures that changes to code do not introduce unexpected issues, and can be monitored and reported on 
+easily.
 
-The most popular frameworks are the following:  Cypress, Jest, Puppeteer, and Playwright.
+Test automation is improving every year as the requirements for product quality increase. New technologies are emerging to automate, speed up, and improve
+the testing process for various products. One of the most notable trends is JavaScript-based automated testing tools. As JS has become one of the most
+popular programming languages over the past few years, many frameworks have emerged to help engineers test JavaScript applications. The most popular 
+frameworks are the following:  Cypress, Jest, Puppeteer, and Playwright.
+
+Test Automation Maintenance Approach is an automation testing phase carried out to test whether the new functionalities added to the software are working
+fine or not. The right selection of automation tool, testing process, and team, are important players for automation to be successful. Manual and
+automation methods go hand-in-hand for successful testing.
