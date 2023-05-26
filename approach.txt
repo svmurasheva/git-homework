@@ -13,4 +13,4 @@ frameworks are the following:  Cypress, Jest, Puppeteer, and Playwright.
 
 Test Automation Maintenance Approach is an automation testing phase carried out to test whether the new functionalities added to the software are working
 fine or not. The right selection of automation tool, testing process, and team, are important players for automation to be successful. Manual and
-automation methods go hand-in-hand for successful testing.
+automation methods go hand-in-hand for successful.
